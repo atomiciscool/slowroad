@@ -19272,7 +19272,7 @@
                             }),
                             Object(Ul.jsxs)("a", {
                               id: "donate",
-                              href: "https://ko-fi.com/slowroads",
+                              href: "https://ko-fi.com/",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               children: [
@@ -19442,13 +19442,13 @@
                               "Join the ",
                               Object(Ul.jsx)("a", {
                                 className: "about-link",
-                                href: "https://discord.gg/t2UWVKcy3z",
+                                href: "https://discord.gg/hydrogen",
                                 children: "discord server",
                               }),
                               " to suggest new ideas. Supporters on ",
                               Object(Ul.jsx)("a", {
                                 className: "about-link",
-                                href: "https://ko-fi.com/slowroads",
+                                href: "https://ko-fi.com/",
                                 children: "ko-fi",
                               }),
                               " get early access and priority requests!",
