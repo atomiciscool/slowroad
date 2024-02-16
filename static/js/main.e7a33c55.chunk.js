@@ -19222,7 +19222,7 @@
                     Object(Ul.jsx)("div", { id: "splash-version", children: Ui }),
                     Object(Ul.jsxs)("a", {
                       id: "splash-anslo",
-                      href: "https://twitter.com/anslogen",
+                      href: "https://github.com/atomiciscool/slowroad",
                       target: "_blank",
                       rel: "noopener noreferrer",
                       children: [
@@ -19231,7 +19231,7 @@
                           id: "splash-anslo-img",
                           alt: "",
                         }),
-                        Object(Ul.jsx)("div", { children: "from anslo.dev" }),
+                        Object(Ul.jsx)("div", { children: "modified by atomic | all credit to anslo" }),
                       ],
                     }),
                     Object(Ul.jsx)("div", { id: "splash-logo-placeholder" }),
