@@ -19286,7 +19286,7 @@
                           className: "splash-footer-link",
                           children: Object(Ul.jsxs)("a", {
                             className: "splash-link",
-                            href: "https://discord.gg/s8XPAAj",
+                            href: "https://discord.gg/hydrogen",
                             children: [
                               "discord",
                               Object(Ul.jsx)("span", { className: "outlink" }),
@@ -20646,7 +20646,7 @@
                             "You can also join the ",
                             Object(Ul.jsx)("a", {
                               className: "feedback-link",
-                              href: "https://discord.gg/s8XPAAj",
+                              href: "https://discord.gg/hydrogen",
                               children: "discord",
                             }),
                             " to talk to me directly.",
