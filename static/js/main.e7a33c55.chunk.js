@@ -19143,7 +19143,7 @@
                   children: [
                     "Please use the feedback form to let me know what you think, or ",
                     Object(Ul.jsx)("a", {
-                      href: "https://discord.gg/s8XPAAj",
+                      href: "https://discord.gg/hydrogen",
                       children: "join the discord",
                     }),
                     " and tell me personally!",
