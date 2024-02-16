@@ -12180,7 +12180,7 @@
               metrics: {
                 shadowMapSize: 4,
                 steerSpeed: 1.57,
-                accel: 20,
+                accel: 15,
                 reverse: 5,
                 jerk: 48,
                 brake: 8,
@@ -12246,7 +12246,7 @@
               metrics: {
                 shadowMapSize: 8,
                 steerSpeed: 0.45,
-                accel: 30,
+                accel: 15,
                 reverse: 5,
                 jerk: 6,
                 brake: 4,
@@ -12313,7 +12313,7 @@
               metrics: {
                 shadowMapSize: 4,
                 steerSpeed: 1.57,
-                accel: 30,
+                accel: 15,
                 reverse: 5,
                 jerk: 48,
                 brake: 8,
@@ -12354,7 +12354,7 @@
               metrics: {
                 shadowMapSize: 4,
                 steerSpeed: 1.57,
-                accel: 30,
+                accel: 15,
                 reverse: 5,
                 jerk: 48,
                 brake: 8,
