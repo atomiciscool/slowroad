@@ -12139,7 +12139,7 @@
               },
               metrics: {
                 shadowMapSize: 4,
-                accel: 100000,
+                accel: 9,
                 reverse: 5,
                 jerk: 48,
                 brake: 12,
@@ -12180,7 +12180,7 @@
               metrics: {
                 shadowMapSize: 4,
                 steerSpeed: 1.57,
-                accel: 1000000,
+                accel: 11,
                 reverse: 5,
                 jerk: 48,
                 brake: 12,
@@ -12246,7 +12246,7 @@
               metrics: {
                 shadowMapSize: 8,
                 steerSpeed: 0.45,
-                accel: 100000,
+                accel: 6,
                 reverse: 5,
                 jerk: 6,
                 brake: 12,
@@ -12313,7 +12313,7 @@
               metrics: {
                 shadowMapSize: 4,
                 steerSpeed: 1.57,
-                accel: 100000,
+                accel: 9,
                 reverse: 5,
                 jerk: 48,
                 brake: 12,
@@ -12354,7 +12354,7 @@
               metrics: {
                 shadowMapSize: 4,
                 steerSpeed: 1.57,
-                accel: 100000,
+                accel: 7,
                 reverse: 5,
                 jerk: 48,
                 brake: 12,
