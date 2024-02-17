@@ -19045,7 +19045,7 @@
                   "Nothing! And no ads, either... enjoy this as a respite from run-away capitalism. However, keeping the game online relies upon kind ",
                   Object(Ul.jsx)("a", {
                     className: "about-link",
-                    href: "https://ko-fi.com/slowroads",
+                    href: "https://ko-fi.com/",
                     children: "donations",
                   }),
                   ", so anything you might be able to contribute would go a long way to supporting it.",
@@ -19404,7 +19404,7 @@
                               "I'm committed to keeping Slow Roads freely available and free from adverts, but I don't have the financial capacity to keep the servers running by myself. If you would like to keep the game alive, a kind ",
                               Object(Ul.jsx)("a", {
                                 className: "about-link",
-                                href: "https://ko-fi.com/slowroads",
+                                href: "https://ko-fi.com/",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 children: "donation",
@@ -20728,7 +20728,7 @@
           },
           ic = () =>
             Object(Ul.jsxs)("a", {
-              href: "https://ko-fi.com/slowroads",
+              href: "https://ko-fi.com/",
               target: "_blank",
               rel: "noreferrer",
               title: "Support development on Ko-fi!",
